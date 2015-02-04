@@ -27,7 +27,7 @@ E-mail: <script type="text/javascript" language="javascript">
  function strrev(str) { return str.split("").reverse().join(""); }
  var name = '23bnb';
  var domain = 'cornell.edu';
- document.write(strrev(name) + '@' + domain + "<br/>OH: TBD");
+ document.write(strrev(name) + '@' + domain + "<br/>OH: F 5-7 in Gates G15");
 </script>
 
 ### Catalog description
@@ -59,7 +59,7 @@ This course can be taken before or after [CS 4210/MATH 4250][cs4210].
 
 #### Required text
 
-- Ascher and Greif, [_A First Course in Numerical Methods_][ag]
+- Ascher and Greif, [_A First Course in Numerical Methods_][ag] ([etext][age])
 
 We will cover roughly chapters 1-9.
 
@@ -82,7 +82,8 @@ Some MATLAB references:
 - Hanselman and Littlefield, [_Mastering MATLAB7_][hanselman]
 - Or pick a favorite from the [many available][mathworks-books]
 
-[ag]: http://www.ec-securehost.com/SIAM/CS07.html
+[ag]: http://bookstore.siam.org/cs07/
+[age]: http://epubs.siam.org/doi/book/10.1137/9780898719987
 
 [meyer]: http://www.amazon.com/gp/product/0898714540/qid=1137779618/sr=2-1/ref=pd_bbs_b_2_1/002-5247186-8320001
 [lay]: http://www.amazon.com/Linear-Algebra-Its-Applications-Edition/dp/0321385179

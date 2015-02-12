@@ -1,0 +1,11 @@
+\frametitle{Matvec: Sparse}
+
+  \begin{lstlisting}
+    % Sparse (O(n) = number nonzeros to form / multiply)
+    e = ones(n-1,1);
+    T = speye(n)-spdiags(e,-1,n,n)-spdiags(e,1,n,n);
+
+    % Dense (O(n^2))
+    T = eye(n)-diag(e,-1)-diag(e,1);
+  \end{lstlisting}
+  Will talk about this in more detail -- keep it in mind!

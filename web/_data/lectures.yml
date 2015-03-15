@@ -159,6 +159,7 @@
   hw:
     - PP1 reviews
     - Read 7.1-7.3
+    - <a href="lec/2015-03-06-notes.pdf">Notes</a>
 #
 # ==================
 # Week 8
@@ -166,21 +167,25 @@
 -
   date: 2015-03-09
   info: |
-    Conjugate gradients and Krylov subspaces
+    Stationary methods, continued
   hw:
     - Read 7.4-7.5
     - PP1 final
     - PP2 out
+    - <a href="lec/2015-03-09-notes.pdf">Notes</a>
 -
   date: 2015-03-11
   info: |
-    Preconditioned iterations, multigrid, domain decomposition
+    Conjugate gradients and Krylov subspaces
   hw:
     - Read 7.6
+    - <a href="lec/2015-03-11-notes.pdf">Notes</a>
 -
   date: 2015-03-13
   info: |
-    Practical solver advice
+    CG and company, preconditioning
+  hw:
+    - <a href="lec/2015-03-13-notes.pdf">Notes</a>
 #
 # ==================
 # Week 9

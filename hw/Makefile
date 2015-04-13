@@ -3,6 +3,8 @@ PDFS=\
 	ps2.pdf \
 	ps3.pdf \
 	ps5.pdf \
+	ps6.pdf \
+	ps7.pdf \
 	proj1.pdf \
 	proj2.pdf \
 	proj1rev.pdf \
